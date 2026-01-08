@@ -88,7 +88,3 @@ From the classification results, we can infer the following:
 ### Conclusion
 
 **Gradient Boosting** appears to be the best model for this churn prediction task, followed closely by **XGBoost**. These models successfully handle the class imbalance and provide a robust balance between precision and recall.
-
-```
-
-```
