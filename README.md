@@ -41,7 +41,7 @@ imblearn  # For SMOTE
 
 ```
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Handling Imbalanced Data
 
@@ -62,7 +62,7 @@ A variety of machine learning models were trained and evaluated:
 * XGBoost
 * Gradient Boosting
 
-## 📊 Results
+##  Results
 
 ### Model Performance Metrics
 
